@@ -6,6 +6,7 @@ Next we show the steps to follow to send the Voicemail with the transcription of
 - Create an OpenAI account.
 - Create OpenAI API Key
 - Have root access to the VitalPBX Server
+- Disable conversion to MP3 in SETTING/Voicemail Settings/Voicemail Settings. If you have it enabled.
 
 Install required dependencies
 <pre>
