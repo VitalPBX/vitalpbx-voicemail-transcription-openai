@@ -23,7 +23,7 @@ And with your OpenAI credentials you log in and in your account (upper right cor
 ## Instalation
 Download the sendmail-gcloud file and copy it to /usr/sbin/
 <pre>
-wget https://raw.githubusercontent.com/VitalPBX/vitalpbx-voicemail-transcription-openai/main/sendmail-openai /usr/sbin/
+wget -P /usr/sbin/ https://raw.githubusercontent.com/VitalPBX/vitalpbx-voicemail-transcription-openai/main/sendmail-openai
 </pre>
 
 We edit the /usr/sbin/sendmail-openai file and add the API Key that we copied earlier.
