@@ -65,4 +65,4 @@ Overall, voicemail transcription can be a useful tool for anyone who receives vo
 
 For more details about the implementation of Google Cloud VoiceMail Transcription, visit the following Blog:
 
-https://vitalpbx.com/blog/vitalpbx-voicemail-transcription-with-openai/
+# [Read the Full Blog Here!](https://vitalpbx.com/blog/vitalpbx-voicemail-transcription-openai-whisper/)
